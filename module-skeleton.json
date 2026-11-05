@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-work-orders-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-work-orders",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_work_orders_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/work-orders.md",
+  "presentationPlan": "projects/maintenance/flutter/work-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
